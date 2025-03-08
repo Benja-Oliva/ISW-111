@@ -9,9 +9,9 @@ Se utiliza para dar oportunidad a artistas pequeños a ser escuchados y transmit
 ### 1.3. Público objetivo.
 Artistas emergentes e independientes y usuarios mas exploradores con ganas de descubrir nuevos artistas. 
 ### 1.4. Uso previsto.
-
+La aplicación estará disponible en dispositivos móviles (iOS y Android) y en computadoras de escritorio y portátiles a través de una versión web. Esto permitirá a los usuarios escuchar música, interactuar con artistas y realizar transacciones desde cualquier lugar y en pantallas más grandes, mejorando la experiencia general.
 ### 1.5. Descripción general.
-
+La aplicación es una plataforma de streaming que permite a artistas emergentes compartir su música y monetizar su talento. Ofrece a los usuarios una variedad de música para descubrir nuevos artistas y está disponible en dispositivos móviles y computadoras.
 ## 2. Requisitos.
 
 ### 2.1. Requisitos Funcionales
