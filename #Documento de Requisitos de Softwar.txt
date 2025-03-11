@@ -19,3 +19,6 @@ La aplicación es una plataforma de streaming que permite a artistas emergentes 
 ### 2.2 Requisitos De Diseño
 
 ### 2.3. Requisitos No Funcionales.
+-Seguridad: inicio de sesión de cada usuario.
+-Usuarios: 1000000
+-Dispositivos: Web y dispositivo móvil
