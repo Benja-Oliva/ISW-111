@@ -1,0 +1,34 @@
+Historias en perfil 
+
+Como <role, persona>
+Creador de contenido
+
+Quiero <objetivo, comportamiento>
+Interactuar con mis seguidores 
+
+Para <motivo, razón, valor>
+Conectar de manera mas intima con mis seguidores
+
+
+Subir musica
+
+Como <role, persona>
+Creador de contenido
+
+Quiero <objetivo, comportamiento>
+Promocionar mi musica con mis seguidores
+
+Para <motivo, razón, valor>
+Expandir mi marca
+
+
+Anclar wallet
+
+Como <role, persona>
+Empresa
+
+Quiero <objetivo, comportamiento>
+Remunerar a los creadores de contenido
+
+Para <motivo, razón, valor>
+Continuar con el flujo de consumidores y creadores
